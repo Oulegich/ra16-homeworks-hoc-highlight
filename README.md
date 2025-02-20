@@ -1,9 +1,9 @@
 Подсвечивание блоков
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ho0c09rmfcfp9y5f?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-hoc-highlight)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-hoc-highlight/)
 
 На нашем сайте есть блоки со статьями и с видеозаписями.
 
